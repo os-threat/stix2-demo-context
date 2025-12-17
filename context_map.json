@@ -1,0 +1,20 @@
+{
+    "current_incident": "incident--d3b5364c-3a01-4e77-9923-235c629a7af7",
+    "current_company": "identity--66c7ec82-9e2d-49de-80d0-b066e93d5a32",
+    "company_list": [
+        "identity--66c7ec82-9e2d-49de-80d0-b066e93d5a32"
+    ],
+    "incident_list": [
+        "incident--146694e8-4666-497c-96d5-d3f6982605a7",
+        "incident--d3b5364c-3a01-4e77-9923-235c629a7af7"
+    ],
+    "update_company_list": [
+        "identity--66c7ec82-9e2d-49de-80d0-b066e93d5a32"
+    ],
+    "update_incident_list": [
+        "incident--146694e8-4666-497c-96d5-d3f6982605a7",
+        "incident--d3b5364c-3a01-4e77-9923-235c629a7af7"
+    ],
+    "update_user": true,
+    "update_team": true
+}
